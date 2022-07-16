@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddInput should render correctly 1`] = `
+<div>
+  <div
+    class="input-container"
+  >
+    <input
+      class="input"
+      placeholder="Add a new task here..."
+      value=""
+    />
+    <button
+      class="add-btn"
+    >
+      Add
+    </button>
+  </div>
+</div>
+`;
